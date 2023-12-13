@@ -12,9 +12,9 @@ I am Jolina Contado, passionate about coding and proficient in database manageme
 
 ## Certification
 
-- **NoSQL and DBaaS 101**
-- **[Oracle Cloud Data Management 2023 Certified Foundations Associate](certification_link1)**
-- **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](certification_link2)**
+- https://courses.cognitiveclass.ai/certificates/cb31ab1f31ea4d52ae9e549d909b94fa
+- https://catalog-education.oracle.com/pls/certview/sharebadge?id=090DE542F98250BC22624CC5B4E393303FF2BCEF274148A5E291DE44F44BEBA8
+- https://catalog-education.oracle.com/pls/certview/sharebadge?id=11C6FDD3BF2939BCFCB0D513F80BFD8079231DD7A56B991B753553E62CEA9033
 
 ## Skill Sets
 
@@ -24,7 +24,7 @@ I am Jolina Contado, passionate about coding and proficient in database manageme
 
 ## Contact Me
 
-- **LinkedIn:** [LinkedIn Profile](LinkedIn_profile_link)
-- **Email:** jolinacontado@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/contado-jolina-m-undefined-a962952a2/
+- **Email:** jolinacontado28@gmail.com
 
 Feel free to connect with me! Let's code and create together! 🚀
