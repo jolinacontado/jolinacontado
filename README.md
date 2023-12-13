@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Jolina Contado, passionate about coding and proficient in database management. I love tackling complex problems and creating elegant solutions. My tech journey began with the BS Information Technology program.
+My name is Jolina Contado, and I love to code. I am an expert in database management. I like to take on difficult problems and devise elegant solutions. I began my tech career with the Bachelor of Science in Information Technology curriculum.
 
 ## Education
 
@@ -27,4 +27,4 @@ I am Jolina Contado, passionate about coding and proficient in database manageme
 - **LinkedIn:** https://www.linkedin.com/in/contado-jolina-m-undefined-a962952a2/
 - **Email:** jolinacontado28@gmail.com
 
-Feel free to connect with me! Let's code and create together! 🚀
+Please get in touch with me! Together, let's work on coding projects!
